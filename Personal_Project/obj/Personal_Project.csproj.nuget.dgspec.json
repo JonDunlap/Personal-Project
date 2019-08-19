@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonathandunlap/OneDrive - Full Sail University/Personal Project/Personal_Project/Personal_Project/Personal_Project.csproj": {}
+  },
+  "projects": {
+    "/Users/jonathandunlap/OneDrive - Full Sail University/Personal Project/Personal_Project/Personal_Project/Personal_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonathandunlap/OneDrive - Full Sail University/Personal Project/Personal_Project/Personal_Project/Personal_Project.csproj",
+        "projectName": "Personal_Project",
+        "projectPath": "/Users/jonathandunlap/OneDrive - Full Sail University/Personal Project/Personal_Project/Personal_Project/Personal_Project.csproj",
+        "packagesPath": "/Users/jonathandunlap/.nuget/packages/",
+        "outputPath": "/Users/jonathandunlap/OneDrive - Full Sail University/Personal Project/Personal_Project/Personal_Project/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonathandunlap/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
