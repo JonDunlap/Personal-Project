@@ -6,6 +6,25 @@ namespace Personal_Project
     {
         static void Main(string[] args)
         {
+
+            //Introduction to the program
+            Console.WriteLine("Welcome to our online store!");
+
+            //Login options
+            Console.WriteLine("\r\nPlease select your login option:\r\n" +
+                "1. Login with existing account.\r\n" +
+                "2. Create a new account.\r\n" +
+                "3. Continue without logging in.");
+
+            //Check the users input
+            //Create string variable for users login option
+            string loginOption = Console.ReadLine();
+
+
+            //Create login array
+
+            //Create register array
+
             //Create a login option
             /*
              *  ask if they login, register, or continue without login/register
